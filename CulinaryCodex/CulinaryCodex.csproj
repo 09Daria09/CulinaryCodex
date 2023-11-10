@@ -32,30 +32,30 @@
 
   <ItemGroup>
     <Resource Include="icons8-поваренная-книга-50.png" />
-    <Resource Include="Images\BlueberryCheesecake.png">
+    <Content Include="Images\BlueberryCheesecake.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="Images\Borsch.png">
+    </Content>
+    <Content Include="Images\Borsch.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="Images\ChickenCutletsWithCheese.png">
+    </Content>
+    <Content Include="Images\ChickenCutletsWithCheese.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="Images\ChickenPilaf.png">
+    </Content>
+    <Content Include="Images\ChickenPilaf.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="Images\Harcho.png">
+    </Content>
+    <Content Include="Images\Harcho.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="Images\HomeStew.png">
+    </Content>
+    <Content Include="Images\HomeStew.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="Images\RedFishSoup.png">
+    </Content>
+    <Content Include="Images\RedFishSoup.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="Images\Shoko.png">
+    </Content>
+    <Content Include="Images\Shoko.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
+    </Content>
   </ItemGroup>
 
 </Project>
